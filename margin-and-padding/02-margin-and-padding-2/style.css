@@ -4,7 +4,9 @@ body {
 }
 
 .card {
-padding: 8px;
+  width: 400px;
+  background: #fff;
+  margin: 16px auto;
 }
 
 .title {
@@ -23,3 +25,4 @@ button {
   background: white;
   border: 1px solid #eee;
 }
+
