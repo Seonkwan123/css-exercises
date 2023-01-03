@@ -56,3 +56,9 @@ ul {
 li {
   margin: 0 8px;
 }
+
+.first-section,
+.second-section {
+  display: flex;
+}
+
