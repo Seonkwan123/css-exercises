@@ -4,6 +4,7 @@ body {
 .fruits {
   display: flex;
   gap: 52px;
+  justify-content: center;
 }
 
 .fruit {
@@ -11,6 +12,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   text-align: center;
+  width: 200px;
 }
 
 img {
