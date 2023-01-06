@@ -5,6 +5,13 @@ body {
   display: flex;
 }
 
+.fruit {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
 img {
   width: 100px;
   height: 100px;
