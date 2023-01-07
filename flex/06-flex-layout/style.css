@@ -39,3 +39,7 @@ ul {
   padding: 0;
   margin: 16px;
 }
+
+a {
+  text-decoration: none;
+}
