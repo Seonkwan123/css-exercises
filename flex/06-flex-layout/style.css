@@ -39,7 +39,7 @@ li {
 }
 
 ul {
-  padding: 0;
+  padding: 5px;
   margin: 16px;
   display: flex;
   gap: 16px;
@@ -54,4 +54,11 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 10px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #eeeeee;
 }
