@@ -49,9 +49,12 @@ body {
 .container {
   display: flex;
   flex-wrap: wrap;
+  padding: 32px;
 }
 ul {
   list-style-type: none;
+  margin: 0;
+  padding-left:0;
 }
 
 a {
@@ -59,3 +62,9 @@ a {
   color: #eee;
   font-size: 24px;
 }
+
+li {
+  margin-bottom: 16px;
+}
+
+
